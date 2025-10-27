@@ -44,4 +44,4 @@ I specialize in end-to-end development, architecting seamless connections betwee
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)
+- 💼 [LinkedIn](https://www.linkedin.com/in/%F0%9F%96%A5%EF%B8%8F-marcin-%C5%BCmudka-67b11b183/)
