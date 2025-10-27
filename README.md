@@ -18,7 +18,7 @@ I specialize in end-to-end development, architecting seamless connections betwee
 - **Framework:** Nest.js, Express.js
 - **Databases:** PostgreSQL, MongoDB, DynamoDB, Redis
 - **ORMs:** Prisma, Drizzle,
-- **Doumentation:** Swagger, Postman
+- **Documentation:** Swagger, Postman
 - **Auth:** Clerk, Auth0, JWT
 - **API Design:** REST, tRPC
 - **Testing:** Jest, Vitest, Supertest, Playwright
